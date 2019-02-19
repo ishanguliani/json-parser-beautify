@@ -8,3 +8,9 @@ NOTE: copy the file `parse.py` in the same `work_directory`as your json files th
 `$cd your_work_directory`
 
 `$python3 parse.py your_file_name.json`
+
+## Examples -
+`$python3 parse.py business.json`
+`$python3 parse.py review.json`
+`$python3 parse.py user.json`
+`$python3 parse.py checkin.json`
