@@ -11,6 +11,6 @@ NOTE: copy the file `parse.py` in the same `work_directory`as your json files th
 
 ## Examples -
 `$python3 parse.py business.json`  
-`$python3 parse.py review.json` . 
-`$python3 parse.py user.json` . 
+`$python3 parse.py review.json`    
+`$python3 parse.py user.json`     
 `$python3 parse.py checkin.json`
