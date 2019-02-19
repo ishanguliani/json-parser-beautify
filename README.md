@@ -1,5 +1,5 @@
 # json-parser-beautify
-input a json file and see its contents in a well indented format
+This script came up while trying to go through a 5 GB dataset with json data. There was a need to sift throught the json attributes in a nice looking (indented, spaced) json format to understand it better. This would then be represented it in an ER diagram. 
 
 # How to use (works with python 2.7 and python 3)
 
