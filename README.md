@@ -6,10 +6,10 @@ Basically view a file 'one_file.json' with garbled json data
 {"business_id":"QXAEGFB4oINs`
 
 as a beautiful data
-`
+```
 {
-  "business_id": "1SWheh84yJXfytovILXOAQ",  <br>
-  "name": "Arizona Biltmore Golf Club",  <br>
+  "business_id": "1SWheh84yJXfytovILXOAQ", 
+  "name": "Arizona Biltmore Golf Club", 
   "address": "2818 E Camino Acequia Drive",  
   "city": "Phoenix",
   "state": "AZ",
@@ -25,7 +25,7 @@ as a beautiful data
   "categories": "Golf, Active Life",
   "hours": null
 }
-`
+```
 
 
 
